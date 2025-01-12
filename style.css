@@ -1,0 +1,213 @@
+/* header Section */
+.header{
+    background-color: #F5F5F5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.btn{
+margin: 20px;
+border-radius: 5px;
+background-color: #F5F5F5;
+color: #006A50;
+font-weight: bold;
+padding: 10px 20px;
+}
+.no{
+    margin-left: 75px;
+    
+}
+/* Banner Section */
+
+.banner-greeting{
+color: darkgray;
+margin-left: 20px;
+margin-top: 50px;
+
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color:#C6E4D6 ;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.image{
+   margin-bottom: 70px;
+}
+.Idea{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.Explore{
+margin-left: 20px;
+background-color:#006A50 ;
+border-radius: 5px;
+width: 220px;
+height: 60px;
+font-weight: bold;
+color: #C6E4D6;}
+.desighn{
+    color:#FFFFFF ;
+}
+/* skill Section */
+
+.skill-container{
+    display: flex;
+    margin-top: 20px;
+    gap: 10px;
+}
+.innovation{
+    border: #FFFFFF;
+    background-color:white;
+    border-radius: 8px;
+}
+.Sustainability{
+    border: #FFFFFF;
+    background-color:white;
+    border-radius: 8px;
+}
+.skill{
+    padding: 10px;
+    box-shadow: 0px 0px;
+    background-color:antiquewhite;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 5px;
+    margin: 10px 0px;
+}
+.Infrastructure{
+    order: #FFFFFF;
+    background-color:white;
+    border-radius: 8px;
+}
+.Empowerment{
+    order: #FFFFFF;
+    background-color:white;
+    border-radius: 8px;
+}
+/*vision section */
+.vision{
+padding: 10px;
+}
+.old{
+    display: flex;
+}
+.A1{
+    background-color:lightskyblue;
+    border-radius: 10px;
+    width: 730px;
+}
+.none{
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #5490F5;
+    border: none;
+    color: #C6E4D6;
+}
+.A2{
+    background-color:greenyellow;
+    border-radius: 10px;
+}
+.A3{
+    background-color:orange;
+    border-radius: 10px;
+}
+.none-2{
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: green;
+    border: none;
+    color: #C6E4D6;
+}
+.none-3{
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color:orangered;
+    border: none;
+    color: #C6E4D6;
+}
+.skills{
+    padding: 10px;
+    box-shadow: 0px 0px;
+    background-color:antiquewhite;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: 5px;
+    width: auto;
+}
+.skill-containers{
+    display: flex;
+    margin-top: 20px;
+    gap: 30px;
+    width: auto;
+}
+.information{
+    background-color: #C6E4D6;
+    height: 230px;
+    width: auto;
+    border-radius: 10px;
+}
+.no-1{
+    gap: 20px;
+    margin-top: 15px;
+}
+/*table Section*/
+.my{
+  text-align: left;
+  background-color: aqua;
+
+}
+.form{
+    width: 1770px;
+    background-color:#C6E4D6;
+    border: 30px;
+    border-radius: 10px;
+}
+.sy{
+    text-align: right;
+    margin-left: 20px;
+    background-color: aqua;
+    border-radius: 10px;
+
+}
+.button{
+    border-radius: 5px;
+    background-color: aqua;
+    width: 300px;
+    height: 20px;
+
+}
+.Donate{
+    text-align: center;
+background-color: aquamarine;
+border-radius: 10px;
+margin-bottom: 10px;
+  
+}
+.btn_deg{
+   width: 1500px;
+   text-align: center;
+   justify-items: center;
+}
+.btn_po{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    gap: 100px;
+    padding: 30px;
+    margin-left: 30px;
+    text-decoration: black;
+    
+}
